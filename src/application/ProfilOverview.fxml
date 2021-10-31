@@ -15,17 +15,17 @@
          <children>
             <ImageView fx:id="brandingImageView2" fitHeight="236.0" fitWidth="228.0" layoutY="152.0" pickOnBounds="true" preserveRatio="true">
                <image>
-                  <Image url="@../../../../Downloads/bar2.jpg" />
+                  <Image url="@../../hack.PNG" />
                </image>
             </ImageView>
             <ImageView fx:id="brandingImageView1" fitHeight="236.0" fitWidth="228.0" pickOnBounds="true" preserveRatio="true">
                <image>
-                  <Image url="@../../../../Downloads/bar2.jpg" />
+                  <Image url="@../../hack.PNG" />
                </image>
             </ImageView>
-            <ImageView fx:id="brandingImageView3" fitHeight="236.0" fitWidth="228.0" layoutY="304.0" pickOnBounds="true" preserveRatio="true">
+            <ImageView fx:id="brandingImageView3" fitHeight="236.0" fitWidth="228.0" layoutY="305.0" pickOnBounds="true" preserveRatio="true">
                <image>
-                  <Image url="@../../../../Downloads/bar2.jpg" />
+                  <Image url="@../../hack.PNG" />
                </image>
             </ImageView>
          </children>
@@ -34,9 +34,9 @@
    <right>
       <AnchorPane prefHeight="400.0" prefWidth="332.0" BorderPane.alignment="CENTER">
          <children>
-            <ImageView fx:id="lockImageView" fitHeight="150.0" fitWidth="200.0" layoutX="91.0" layoutY="36.0" pickOnBounds="true" preserveRatio="true">
+            <ImageView fx:id="lockImageView" fitHeight="114.0" fitWidth="200.0" layoutX="91.0" layoutY="36.0" pickOnBounds="true" preserveRatio="true">
                <image>
-                  <Image url="@../../../../Downloads/clipart224447.png" />
+                  <Image url="@../../hack.PNG" />
                </image>
             </ImageView>
             <TextField fx:id="identifiantTextField" layoutX="73.0" layoutY="216.0" prefHeight="25.0" prefWidth="186.0" promptText="Identifiant" />
